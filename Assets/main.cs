@@ -484,6 +484,7 @@ public class main : MonoBehaviour {
         
         arrowsTilemap.GetComponent<TilemapRenderer>().enabled = false;
         
+        QualitySettings.vSyncCount = 0;
         Application.targetFrameRate = 30;
         
     }
