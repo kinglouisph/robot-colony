@@ -426,7 +426,7 @@ public class main : MonoBehaviour {
     public static float waveStrength = 5.0f; //1 is 1 grunt
     public static float waveStrengthIncrement = 5.0f;
     public static int waveNumber = 1;
-    public static float waveStrengthMultiplier = 1.22f;
+    public static float waveStrengthMultiplier = 1.3f;
     
     public static bool pathingView = false;
     public static bool debugMode = false;
